@@ -26,12 +26,12 @@ nama anggota
 - php artisan migrate
 - php artisan serve
 
-💬 Fitur Singkat
+### 💬 Fitur Singkat
 - User mengisi form pengiriman barang.
 - Admin melihat semua order, status (Proses, Dikirim, Sampai).
 - Fitur konfirmasi order oleh admin.
 
-📋 contoh penggunaan 
+### 📋 contoh penggunaan 
 - User submit form ➡️ Data muncul di halaman admin.
 - Admin bisa update status pengiriman dan konfirmasi.
 ## Contoh Tampilan
