@@ -43,6 +43,10 @@ ini  adalah contoh gambar menu form  pengiriman untuk mengisi data dan alamat tu
 Ini adalah contoh gambar menu admin untuk data pengiriman admin bisa mengkomfirmasi apakah sudah dikirim atau tidak 
 <img src="https://cdn.discordapp.com/attachments/933317597104054323/1395308538011717703/Screenshot_2025-07-17_143456.png?ex=6879f9d7&is=6878a857&hm=0bd583b11373d6f5228edd68f88f38963c1144fa1b5a091f628d778d37579394&">
 
+Ini adalah contoh gambar saat mengkomfirmasi pengiriman untuk menentukan apakah sudah dikirim atau selesai dikirim 
+<img src="https://cdn.discordapp.com/attachments/933317597104054323/1395392674462437386/image.png?ex=687a4832&is=6878f6b2&hm=40ccc1f97efbac311210139d45587ec140f312391ed56210caa84dd737ea62ec&">
+
+
 
 
 
